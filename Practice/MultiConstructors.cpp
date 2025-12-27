@@ -2,7 +2,7 @@
 #include<string>
 using namespace std;
 
-struct House{
+class House{
 public:
     int room;
     float area;
@@ -56,3 +56,4 @@ int main(){
     cout<<h6.area<<" "<<h6.room<<endl;
 
 } 
+
