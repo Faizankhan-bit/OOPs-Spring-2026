@@ -3,6 +3,7 @@
 using namespace std;
 
 struct House{
+public:
     int room;
     float area;
     string colour; 
@@ -53,4 +54,5 @@ int main(){
     cout<<h1.room<<endl;
     cout<<h5.room<<" "<<h5.area<<" "<<h5.colour<<endl;
     cout<<h6.area<<" "<<h6.room<<endl;
+
 } 
