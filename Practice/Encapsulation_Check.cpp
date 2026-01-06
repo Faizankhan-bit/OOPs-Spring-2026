@@ -6,7 +6,7 @@ class employee{
         int salary;
 
     public:
-        void setSalary(float s ){
+        void setSalary(int s ){
             if(s < 0){
                 salary = 0;
                 cout<<"Salary cannot be negative. Set to 0."<<endl;
@@ -30,4 +30,5 @@ int main(){
 
     e.setSalary(-50000);
     e.display();
+
 }
