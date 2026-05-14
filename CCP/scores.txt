@@ -1,0 +1,6 @@
+Student: mifrah | Score: 2
+Student: mifrah | Score: 2
+Student: mifrah | Score: 1
+Student: mifrah | Score: 3
+Student: mifrah | Score: 3
+Student: faizan | Score: 3

@@ -1,0 +1,23 @@
+Which access specifier hides data in a class?|Public|Private|Virtual|Friend|2|easy|encapsulation
+What is the process of wrapping data and functions together?|Abstraction|Encapsulation|Inheritance|Polymorphism|2|easy|encapsulation
+Getters and Setters are used to access what kind of members?|Public|Protected|Private|Static|3|intermediate|encapsulation
+Can a class change its encapsulation implementation without affecting the user?|Yes|No|Only if virtual|Only if abstract|1|hard|encapsulation
+What does a derived class inherit from a base class?|Only public members|Only protected members|Public and protected members|Nothing|3|easy|inheritance
+Which type of inheritance involves one child and one parent?|Multiple|Multilevel|Hierarchical|Single|4|easy|inheritance
+In Multiple Inheritance, which problem occurs when two parent classes have the same method?|Stack Overflow|Diamond Problem|Memory Leak|Syntax Error|2|hard|inheritance
+What keyword is used to inherit a class in C++?|inherits|extends|implements|: (colon)|4|intermediate|inheritance
+Function overloading is an example of what?|Runtime Polymorphism|Compile-time Polymorphism|Inheritance|Encapsulation|2|easy|polymorphism
+Which keyword is essential for Runtime Polymorphism in C++?|static|inline|virtual|friend|3|easy|polymorphism
+Can constructors be virtual?|Yes|No|Only default constructors|Only parameterized|2|hard|polymorphism
+What determines which overridden method is called at runtime?|Compiler|Pointer/Reference type|Object type|Preprocessor|3|intermediate|polymorphism
+What is an abstract class?|A class with only private members|A class with pure virtual functions|A class that cannot have constructors|A static class|2|intermediate|other
+What keyword is used to allocate memory dynamically?|malloc|new|alloc|create|2|easy|other
+The STL vector is an example of what?|Container|Iterator|Algorithm|Adapter|1|intermediate|other
+What design pattern restricts instantiation to one object?|Adapter|Singleton|Factory|Observer|2|hard|other
+Is data hiding achieved by declaring data members as private?|Yes|No|Only in structs|Only in interfaces|1|easy|encapsulation
+What is the benefWhich class is inherited from in C++?|Base class|Derived class|Main class|Static class|1|easy|inheritance
+Which inheritance type involves a chain of classes (A->B->C)?|Single|Multiple|Multilevel|Hierarchical|3|hard|inheritanceit of encapsulation?|Speed|Security and data protection|Memory saving|Code length|2|intermediate|encapsulation
+Method overriding is an example of?|Compile-time polymorphism|Runtime polymorphism|Operator overloading|Abstraction|2|intermediate|polymorphism
+Can we overload the C++ insertion operator (<<) for custom classes?|Yes|No|Only for ints|Only in structs|1|hard|polymorphism
+A class with at least one pure virtual function is called?|Concrete class|Abstract class|Virtual class|Static class|2|intermediate|other
+Which OOP concept shows only essential features and hides background details?|Encapsulation|Inheritance|Abstraction|Polymorphism|3|easy|other
